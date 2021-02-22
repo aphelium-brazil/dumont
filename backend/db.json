@@ -1,0 +1,24 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Caneta Bic Preta",
+            "price": 5.89
+            },{
+                "id": 2,
+                "name": "Pacote de 500 Folhas Sulfite",
+                "price": 17.00
+            },{
+                "id": 3,
+                "name": "Notebook Dell G5 5590",
+                "price": 11900
+            },{
+                "id": 4,
+                "name": "Monitor Acer",
+                "price": 1000
+            },{
+                "id": 5,
+                "name": "Notebook Lenovo",
+                "price": 1000
+        }
+    ]
+}
