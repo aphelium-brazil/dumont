@@ -1,28 +1,39 @@
 .header {
-    background: #191919;
-    display: flex;
-    align-items: center;
-    justify-content: space-between
+  background: #191919;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header div {
+  display: flex;
 }
 
 .header i {
-    color: #e6ecf0
+  color: #e6ecf0;
 }
 
-.header a{
-    display: flex;
-    align-items: center;
-    text-decoration: none;
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
 }
 
 .header img {
-    max-height: 50px;
+  max-height: 50px;
 }
 
-.header .title-group {
-    padding-left: 25px;
+.header .menu-group {
+  padding-left: 25px;
 }
 
-.header .title-group i {
-    padding-left: 15px;
+.header .menu-group i {
+  padding-left: 15px;
+}
+
+.header span img {
+    margin-top: 10px;
+    max-height: 35px;
+    border: 1.5px solid green;
+    border-radius: 50%;
 }

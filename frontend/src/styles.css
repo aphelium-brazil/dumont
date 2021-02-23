@@ -1,13 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 
+
 html,
 body {
   height: 100%;
-}
-body {
+  background: #ecf0f3 url("src\assets\background.svg") no-repeat center top;
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
-  background: #e6ecf0;
+  background-color: #e6ecf0;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -28,4 +28,5 @@ body {
 
 button {
     cursor: pointer;
-  }
+}
+
